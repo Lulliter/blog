@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# blogdown stuff
+blogdown
+.DS_Store
+public/   # since replaced by  /docs
+public_NO/
