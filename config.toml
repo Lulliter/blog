@@ -1,10 +1,12 @@
+# More details in https://bookdown.org/yihui/blogdown/templates.html
+
 title = "A minimal Hugo website"
 theme = "hugo-xmin"
 
 googleAnalytics = ""
 disqusShortname = ""
 
-baseURL = "https://lulliter.github.io/blog/" # https://[USERNAME].github.io/[REPO_NAME] in this case
+baseURL = "https://lulliter.github.io/blog/" # https://[USERNAME].github.io/[REPO_NAME] in this case (Github Page)
 relativeURLs = true
 publishDir = "docs" # By default would be /public We need it to be the /docs (Github docs branch)
 
@@ -41,4 +43,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 -- 2019 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    footer = "&copy; Luisa M. Mimmi 2018 -- 2019 | Minimal Hugo theme by [Yihui Xie](https://themes.gohugo.io/hugo-xmin/)"
