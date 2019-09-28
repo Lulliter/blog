@@ -7,7 +7,18 @@ title: Home
 <img src="/./_index_files/coffee_portrait.png" width="20%" height="20%"; style="float:top;" alt="TLD Logo" />
 -->
 
-<img src="/./_index_files/Leo2.jpg" alt="By Leonora Faraone" width="100%" height="20%"/>
+<!-- 
+<img src="/./about_files/WB_portrait.jpg" style="float: top; margin-right: 15px; margin-top: 8px" alt="" width="27.5%" height="27.5%" /> 
+ -->
+
+<figure>
+<center>
+    <img src="/./_index_files/Leo2.jpg" alt="" width="100%" height="100%"/>
+    <figcaption><i>By Leonora Faraone</i></figcaption>
+    </center>
+</figure>
+
+---
 
 # NOTES, R PROJECTS, etc. 
 

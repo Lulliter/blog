@@ -8,6 +8,7 @@ This blog is intended as a place to collect notes-to-self, R code snippets, insp
 
 ### Bio
 
+
 <img src="/./about_files/WB_portrait.jpg" style="float: top; margin-right: 15px; margin-top: 8px" alt="" width="27.5%" height="27.5%" /> 
 
 My name is **Luisa M. Mimmi**. I was born and raised in :it:, although I have been in the :us: for 10+ years, based in Washington, DC. 
