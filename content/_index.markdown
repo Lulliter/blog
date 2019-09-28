@@ -1,8 +1,11 @@
 ---
 title: Home
 ---
-<img src="/./_index_files/dilbertprogramming2.jpg" width="100%" height="100%"; style="float:top;" alt="" />
 
+
+
+<!-- <img src="/./_index_files/dilbertprogramming2.jpg" width="100%" height="100%"; style="float:top;" alt="" />
+-->
 
 <!-- <figure>
 <center>
@@ -25,11 +28,5 @@ sanza lo ritenere, avere inteso.
 
 # NOTES, R PROJECTS, etc. 
 
-
-<!-- ```{bash, comment='', echo=2, eval=Sys.which('bash') != '' && .Platform$OS.type != 'windows'}
-cd ../..;
-find . -not -path '*/exampleSite/*' \( -name '*.html' -o -name '*.css' \) | xargs wc -l
-```
--->
 
 
