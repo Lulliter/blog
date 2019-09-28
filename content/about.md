@@ -12,7 +12,7 @@ This blog is intended as a place to collect notes-to-self, R code snippets, insp
 
 My name is **Luisa M. Mimmi**. I was born and raised in :it:, although I have been in the :us: for 10+ years, based in Washington, DC. 
 
-When I am not procrastinating, or chasing a decent espresso, I am a consultant for multi-lateral development banks, passionate about using data to understand and tackle various dimensions of infrastructure poverty. For more details about my 'official' job see links to other platforms or [CV](https://github.com/Lulliter/blog/about_files/alex-albright-cv.pdf)) 
+When I am not procrastinating, or chasing a decent espresso, I am a consultant for multi-lateral development banks, passionate about using data to understand and tackle various dimensions of infrastructure poverty. For more details about my 'official' job see links to other platforms or [CV](https://github.com/Lulliter/blog/cv_files/Luisa-M-Mimmi.pdf)) 
 
  
  
