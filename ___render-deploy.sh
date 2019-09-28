@@ -22,7 +22,7 @@ cd ./
 ########################################################
 # hugo
 # hugo -t hugo-academic # does't work
-hugo -v # verbose DOESN'T WORK NEED TO USE ADDIN:servesite
+# hugo -v # verbose DOESN'T WORK NEED TO USE ADDIN:servesite
 # hugo server -D  # see the preview of the site
 
 
@@ -30,7 +30,7 @@ hugo -v # verbose DOESN'T WORK NEED TO USE ADDIN:servesite
 # MODO 2) BLOGDOWN from  command line to build site
 ########################################################
 # ===== Build local
-# R -e 'blogdown:::serve_site()' # install to default location.
+R -e 'blogdown:::serve_site()' # install to default location.
 # ====== Building the public site
 # R -e 'blogdown:::build_site()' # install to default location.
 
@@ -62,17 +62,9 @@ git push origin master
 
 #=========================================== (check to ./docs) ================================================#
 ########################################################
-cd ~/GoogleDrive/source/public
+cd ./docs
 
 # Go To (git) ./sub-folder (one below the Rproj wdir)
 #	cd ./MexicoWaterSurvey
 	ls
-	ls ./tutorial -R
-	ls ./project -R
-	git remote show origin
 
-# # Come Back up to the Project Root
-# cd ..
-#
-# # Delete the local repository in the shell:
-# rm -rf myrepo/

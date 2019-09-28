@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on A minimal Hugo website</title>
-    <link>https://lulliter.github.io/blog/</link>
+    <link>/</link>
     <description>Recent content in Home on A minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lulliter.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>https://lulliter.github.io/blog/post/2019/09/25/test/</link>
+      <link>/post/2019/09/25/test/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lulliter.github.io/blog/post/2019/09/25/test/</guid>
+      <guid>/post/2019/09/25/test/</guid>
       <description>blah blah</description>
     </item>
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>https://lulliter.github.io/blog/post/2016/02/14/a-plain-markdown-post/</link>
+      <link>/post/2016/02/14/a-plain-markdown-post/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://lulliter.github.io/blog/post/2016/02/14/a-plain-markdown-post/</guid>
+      <guid>/post/2016/02/14/a-plain-markdown-post/</guid>
       <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
 1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://lulliter.github.io/blog/post/2015/07/23/hello-r-markdown/</link>
+      <link>/post/2015/07/23/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://lulliter.github.io/blog/post/2015/07/23/hello-r-markdown/</guid>
+      <guid>/post/2015/07/23/hello-r-markdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -44,20 +44,20 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>https://lulliter.github.io/blog/post/2015/07/23/lorem-ipsum/</link>
+      <link>/post/2015/07/23/lorem-ipsum/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://lulliter.github.io/blog/post/2015/07/23/lorem-ipsum/</guid>
+      <guid>/post/2015/07/23/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://lulliter.github.io/blog/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lulliter.github.io/blog/about/</guid>
+      <guid>/about/</guid>
       <description>This blog is intended as a place to collect notes-to-self, R code snippets, inspiring ideas, and side-projects that stay tenaciously planted on my &amp;ldquo;To-Do&amp;rdquo; list.
 Bio My name is Luisa M. Mimmi. I was born and raised in 🇮🇹, although I have been in the 🇺🇸 for 10+ years, based in Washington, DC.
 When I am not procrastinating, or chasing a decent espresso, I am a consultant for multi-lateral development banks, passionate about using data to understand and tackle various dimensions of infrastructure poverty.</description>
@@ -65,10 +65,10 @@ When I am not procrastinating, or chasing a decent espresso, I am a consultant f
     
     <item>
       <title>CV (English and Italian)</title>
-      <link>https://lulliter.github.io/blog/cv/</link>
+      <link>/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lulliter.github.io/blog/cv/</guid>
+      <guid>/cv/</guid>
       <description> Here is a link to my (long) CV: 3pg CV - English. Here is a link to my (long) CV: 4pg CV - Italian.  </description>
     </item>
     

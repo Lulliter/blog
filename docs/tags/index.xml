@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A minimal Hugo website</title>
-    <link>https://lulliter.github.io/blog/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on A minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lulliter.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown</title>
-      <link>https://lulliter.github.io/blog/tags/markdown/</link>
+      <link>/tags/markdown/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://lulliter.github.io/blog/tags/markdown/</guid>
+      <guid>/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MathJax</title>
-      <link>https://lulliter.github.io/blog/tags/mathjax/</link>
+      <link>/tags/mathjax/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://lulliter.github.io/blog/tags/mathjax/</guid>
+      <guid>/tags/mathjax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandoc</title>
-      <link>https://lulliter.github.io/blog/tags/pandoc/</link>
+      <link>/tags/pandoc/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://lulliter.github.io/blog/tags/pandoc/</guid>
+      <guid>/tags/pandoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RStudio</title>
-      <link>https://lulliter.github.io/blog/tags/rstudio/</link>
+      <link>/tags/rstudio/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://lulliter.github.io/blog/tags/rstudio/</guid>
+      <guid>/tags/rstudio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blogdown</title>
-      <link>https://lulliter.github.io/blog/tags/blogdown/</link>
+      <link>/tags/blogdown/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://lulliter.github.io/blog/tags/blogdown/</guid>
+      <guid>/tags/blogdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://lulliter.github.io/blog/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://lulliter.github.io/blog/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://lulliter.github.io/blog/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://lulliter.github.io/blog/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://lulliter.github.io/blog/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://lulliter.github.io/blog/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
