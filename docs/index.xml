@@ -21,25 +21,6 @@
     </item>
     
     <item>
-      <title>Another Note on A blogdown Tutorial</title>
-      <link>/note/another-note/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/note/another-note/</guid>
-      <description>I just discovered an awesome tutorial on blogdown written by Alison. I have to admit this is the best blogdown tutorial I have seen so far.</description>
-    </item>
-    
-    <item>
-      <title>A Quick Note on Two Beautiful Websites</title>
-      <link>/note/a-quick-note/</link>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/note/a-quick-note/</guid>
-      <description>To me, the two most impressive websites based on blogdown are:
- Rob J Hyndman&amp;rsquo;s personal website. Live Free or Dichotomize by Lucy and Nick et al.  I&amp;rsquo;m sure there will be more.</description>
-    </item>
-    
-    <item>
       <title>A Plain Markdown Post</title>
       <link>/post/2016/02/14/a-plain-markdown-post/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
@@ -80,6 +61,15 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
       <description>This blog is intended as a place to collect notes-to-self, R code snippets, inspiring ideas, and side-projects that stay tenaciously planted on my &amp;ldquo;To-Do&amp;rdquo; list.
 Bio My name is Luisa M. Mimmi. I was born and raised in 🇮🇹, although I have been in the 🇺🇸 for 10+ years, based in Washington, DC.
 When I am not procrastinating, or chasing a decent espresso, I am a consultant for multi-lateral development banks, passionate about using data to understand and tackle various dimensions of infrastructure poverty.</description>
+    </item>
+    
+    <item>
+      <title>CV (English and Italian)</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description> Here is a link to my (long) CV: 3pg CV - English. Here is a link to my (long) CV: 4pg CV - Italian.  </description>
     </item>
     
   </channel>
