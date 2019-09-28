@@ -53,7 +53,7 @@ fi
 # ... Commit Those changes.
 git commit -m "$msg"
 
-		# git commit -m "Green card"
+		# git commit -m "Posts migrated"
 		# git commit -m "about"
 
 # Push source and build repos.
