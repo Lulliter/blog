@@ -17,6 +17,7 @@ title: Home
  
 
 ---
+
 > Apri la mente a quel ch’io ti paleso  
 e fermalvi entro; ché non fa scïenza,  
 sanza lo ritenere, avere inteso.
