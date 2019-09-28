@@ -1,11 +1,8 @@
 ---
 title: Home
 ---
-
-
-<!-- 
-<img src="/./_index_files/coffee_portrait.png" width="20%" height="20%"; style="float:top;" alt="TLD Logo" />
--->
+<img src="/./_index_files/dilbertprogramming2.jpg" width="100%" height="100%"; style="float:top;" alt="Dilbert Comic" />
+ 
 
 <!-- 
 <img src="/./about_files/WB_portrait.jpg" style="float: top; margin-right: 15px; margin-top: 8px" alt="" width="27.5%" height="27.5%" /> 
@@ -18,8 +15,7 @@ title: Home
     </center>
 </figure>
 -->
-
-![](/./_index_files/dilbertprogramming.gif)
+ 
 
 ---
 
