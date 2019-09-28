@@ -23,6 +23,7 @@ title: Home
 
 ---
 
+
 # NOTES, R PROJECTS, etc. 
 
 > Apri la mente a quel ch’io ti paleso  
