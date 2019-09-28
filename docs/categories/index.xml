@@ -6,35 +6,35 @@
     <description>Recent content in Categories on A minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example</title>
-      <link>/categories/example/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>Mini-project</title>
+      <link>/categories/mini-project/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/example/</guid>
+      <guid>/categories/mini-project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>/categories/hugo/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>Blog-post</title>
+      <link>/categories/blog-post/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/categories/hugo/</guid>
+      <guid>/categories/blog-post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Italian</title>
+      <link>/categories/italian/</link>
+      <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>/categories/italian/</guid>
       <description></description>
     </item>
     

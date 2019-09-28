@@ -6,50 +6,38 @@
     <description>Recent content in Posts on A minimal Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>/post/2019/09/25/test/</link>
-      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <title>Analysis for Green Card processing time</title>
+      <link>/post/2019/07/07/green-card-processing-time/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/09/25/test/</guid>
-      <description>blah blah</description>
+      <guid>/post/2019/07/07/green-card-processing-time/</guid>
+      <description> This short project investigates whether the Trump administration has slowed down the labor certification &amp;amp; green card application process for foreign workers. The analysis relies on DOL/OFLC and USCIS open data.
+Results  Short Article Code on Github   </description>
     </item>
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>/post/2016/02/14/a-plain-markdown-post/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>Open spatial data for resilience in Tanzania: Lessons learned from &#39;Dar Ramani Huria&#39;</title>
+      <link>/post/2016/11/15/2016-11-15_ramani-huria/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/2016/02/14/a-plain-markdown-post/</guid>
-      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
-1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
+      <guid>/post/2016/11/15/2016-11-15_ramani-huria/</guid>
+      <description>Community Mapping For Flood Resilience “Dar Ramani Huria” (Swahili for “Dar Open Map”) is the name of a community-based mapping project in Dar es Salaam, Tanzania. This project brought together international agencies, local university students and community members with the aim of putting the city’s most flood- prone areas “on the map” for the first time, an endeavor made possible by the coordinated adoption of a host of geospatial and open data tools.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Sussidiarietà e sviluppo: l’elettricità nelle favelas dell’America Latina</title>
+      <link>/post/2009/02/21/sussidiariet%C3%A0-e-sviluppo/</link>
+      <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/post/2015/07/23/lorem-ipsum/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2015/07/23/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Quisque mattis volutpat lorem vitae feugiat.</description>
+      <guid>/post/2009/02/21/sussidiariet%C3%A0-e-sviluppo/</guid>
+      <description>I prepared this blog post as a reflection on the experience as a graduate student and summer intern in a NGO working in Brazil
+ Uno dei temi che hanno maggiormente animato il recente dibattito sulla cooperazione allo sviluppo è la critica rivolta a governi e istituzioni multilaterali (Banca Mondiale, Fondo Monetario Internazionale e varie agenzie ONU in primis), di gestire gli aiuti ai paesi in via di sviluppo in modo arbitrario, assitenzialista e ultimamente inefficace (in sintesi con un approccio top-down).</description>
     </item>
     
   </channel>

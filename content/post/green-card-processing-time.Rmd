@@ -1,0 +1,21 @@
+---
+title: Analysis for Green Card processing time
+author: Luisa M. Mimmi
+date: '2019-07-07'
+categories:
+  - Mini-project
+tags:
+  - R
+  - ggplot2
+slug: green-card-processing-time
+---
+
+This short project investigates whether the Trump administration has slowed down the labor certification & green card application process for foreign workers. 
+The analysis relies on DOL/OFLC and USCIS open data.
+
+ 
+## Results
+
+- [Short Article](/post/green-card-processing-time_files/GreenCard_Article.pdf)
+- [Code on Github](https://github.com/Lulliter/GreenCard)
+ 

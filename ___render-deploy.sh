@@ -12,9 +12,9 @@
 cd ./
 
 #=====  (Clean Everiting *INSIDE* ./public)
-# setopt rmstarsilent # prevent from asking me permission
-# rm -rf  docs/*
-# unsetopt rmstarsilent
+setopt rmstarsilent # prevent from asking me permission
+rm -rf  docs/*
+unsetopt rmstarsilent
 
 ########################################################
 # MODO 1) HUGO command line to build site
@@ -30,7 +30,7 @@ cd ./
 # MODO 2) BLOGDOWN from  command line to build site
 ########################################################
 # ===== Build local
-R -e 'blogdown:::serve_site()' # install to default location.
+# R -e 'blogdown:::serve_site()' # install to default location.
 # ====== Building the public site
 # R -e 'blogdown:::build_site()' # install to default location.
 
