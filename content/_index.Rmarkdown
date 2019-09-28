@@ -3,7 +3,11 @@ title: Home
 ---
 
 
+<!-- 
 <img src="/./_index_files/coffee_portrait.png" width="20%" height="20%"; style="float:top;" alt="TLD Logo" />
+-->
+
+<img src="/./_index_files/Leo2.jpg" alt="By Leonora Faraone" width="100%" height="20%"/>
 
 # NOTES, R PROJECTS, etc. 
 
