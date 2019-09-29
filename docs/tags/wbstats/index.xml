@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wbstats on A minimal Hugo website</title>
+    <link>/tags/wbstats/</link>
+    <description>Recent content in wbstats on A minimal Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/wbstats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>World Development Indicator data analysis </title>
+      <link>/post/2018/02/20/world-development-indicator-data-analysis/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/02/20/world-development-indicator-data-analysis/</guid>
+      <description>Study of World Bank’s WDI indicator Life expectancy at birth This mini-study project was an exercise to learn how to use the World Bank’s API for the World Development Indicator (WDI) repository.
+In this study, I explore the indicator Life expectancy at birth and I also do some comparative analisys using other indicators that I expect to be highly correlated with life expectancy: namely GDP and the status of Fragile and conflict affected situations (FCS).</description>
+    </item>
+    
+  </channel>
+</rss>

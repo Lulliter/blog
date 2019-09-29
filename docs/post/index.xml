@@ -22,6 +22,37 @@ Results  Short Article Code on Github   </description>
     </item>
     
     <item>
+      <title>NYE fundraising data analysis </title>
+      <link>/post/2019/04/14/nye-fundraising-data-analysis/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/04/14/nye-fundraising-data-analysis/</guid>
+      <description>Since March 2018, I have worked part-time as a Pro-Bono Fundraising Data Analyst for the nonprofit organization New York Encounter. I performed several ETL tasks –via SQL-based data transformations and R programming– to set up the integration of data that existed in separate and disconnected platforms. Namely, the Nonprofit had informations on donors and attendees on SendGrid, donations recorded via Square and miscellaneous other information in Salesforce. After cleaning and merging such information, I performed an initial explorative characterization of the Nonprofit private donors.</description>
+    </item>
+    
+    <item>
+      <title>LinkdIn Data: competitiveness of cities</title>
+      <link>/post/2018/12/15/linkdin-data-competitiveness-of-cities/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/12/15/linkdin-data-competitiveness-of-cities/</guid>
+      <description> Study of jobs and competitivity of cities This mini-study project was a take-home test I completed in winter 2018 as part of a job interview for a consultancy with IFC (in collaboration with LinkedIn). I used it as an opportunity to refresh some R programming and learn to use the xaringan package to make html presentations.
+ Results  Slides (xaringan)
+ Code on Github
+   </description>
+    </item>
+    
+    <item>
+      <title>World Development Indicator data analysis </title>
+      <link>/post/2018/02/20/world-development-indicator-data-analysis/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/02/20/world-development-indicator-data-analysis/</guid>
+      <description>Study of World Bank’s WDI indicator Life expectancy at birth This mini-study project was an exercise to learn how to use the World Bank’s API for the World Development Indicator (WDI) repository.
+In this study, I explore the indicator Life expectancy at birth and I also do some comparative analisys using other indicators that I expect to be highly correlated with life expectancy: namely GDP and the status of Fragile and conflict affected situations (FCS).</description>
+    </item>
+    
+    <item>
       <title>Open spatial data for resilience in Tanzania: Lessons learned from &#39;Dar Ramani Huria&#39;</title>
       <link>/post/2016/11/15/2016-11-15_ramani-huria/</link>
       <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
