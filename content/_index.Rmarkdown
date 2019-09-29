@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-<img src="/./index_files/dilbertprogramming.png" width="80%" height="100%"; style="float:top;" alt="" />
+<img src="/./index_files/dilbertprogramming.png" width="100%" height="100%"; style="float:top;" alt="" />
 
 # BLOG POSTS, SIDE PROJECTS, R LEARNING NOTES...
  

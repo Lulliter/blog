@@ -6,14 +6,15 @@ This blog is intended as a place to collect notes-to-self, R code snippets, insp
 
 ---
 
-### Bio
+### _`whoami`_
 
+<img src="/./about_files/LulaSalvador2015.jpg" style="float: left; margin-right: 15px; margin-top: 8px" alt="" width="15%" height="15%" /> 
 
-<img src="/./about_files/WB_portrait.jpg" style="float: top; margin-right: 15px; margin-top: 8px" alt="" width="27.5%" height="27.5%" /> 
+My name is **Luisa M. Mimmi**. I was born and raised in :it:, although I have been in the :us: for the last 10+ years, based in Washington, DC. 
 
-My name is **Luisa M. Mimmi**. I was born and raised in :it:, although I have been in the :us: for 10+ years, based in Washington, DC. 
+When I am not procrastinating, or chasing a decent espresso, I am a consultant for multi-lateral development banks, passionate about using data to understand and tackle various dimensions of infrastructure poverty. 
 
-When I am not procrastinating, or chasing a decent espresso, I am a consultant for multi-lateral development banks, passionate about using data to understand and tackle various dimensions of infrastructure poverty. For more details about my 'official' job see links to other platforms or [CV](https://lulliter.github.io/blog/cv/)) 
+For more details about my 'official' job see links to other platforms or [CV](https://lulliter.github.io/blog/cv/)) 
 
  
  
@@ -22,8 +23,8 @@ When I am not procrastinating, or chasing a decent espresso, I am a consultant f
 
 ### Presently busy with: 
 
-- [Survey of WSS Suppliers in Brazil - as part of my IADB work](https://lulliter.github.io/BrazilWaterSurvey/)
-- [Survey of WSS Suppliers in Mexico - as part of my IADB work](https://lulliter.github.io/MexicoWaterSurvey/)
+- [Survey of WSS Suppliers in Brazil (as part of my IADB work)](https://lulliter.github.io/BrazilWaterSurvey/)
+- [Survey of WSS Suppliers in Mexico (as part of my IADB work)](https://lulliter.github.io/MexicoWaterSurvey/)
  
 <!--
 - "If You Give a Judge a Risk Score: Evidence from Kentucky Bail Decisions"
