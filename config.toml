@@ -8,7 +8,9 @@ disqusShortname = ""
 
 theme = "hugo-xmin"
 
-baseURL = "https://lulliter.github.io/blog/" # https://[USERNAME].github.io/[REPO_NAME] in this case (Github Page)
+# Following https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a
+baseURL = "https://luisamimmi.com/"
+# baseURL = "https://lulliter.github.io/blog/" # https://[USERNAME].github.io/[REPO_NAME] in this case (Github Page)
 relativeURLs = true
 publishDir = "docs" # By default would be /public We need it to be the /docs (Github docs branch)
 languageCode = "en-us"
