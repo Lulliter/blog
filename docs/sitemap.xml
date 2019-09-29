@@ -114,4 +114,8 @@
     <loc>/cv/</loc>
   </url>
   
+  <url>
+    <loc>/wrong_index/</loc>
+  </url>
+  
 </urlset>
