@@ -60,18 +60,5 @@ When I am not procrastinating, or chasing a decent espresso, I am a consultant f
       <description> Here is a link to my (long) CV: 3pg CV - English. Here is a link to my (long) CV: 4pg CV - Italian.  </description>
     </item>
     
-    <item>
-      <title>Home</title>
-      <link>/wrong_index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/wrong_index/</guid>
-      <description> --  By Leonora Faraone   --  Apri la mente a quel ch’io ti paleso
-e fermalvi entro; ché non fa scïenza,
-sanza lo ritenere, avere inteso.
-(Dante Alighieri, Divina Commedia, Paradiso V, 40-42)
- NOTES, R PROJECTS, etc. </description>
-    </item>
-    
   </channel>
 </rss>
