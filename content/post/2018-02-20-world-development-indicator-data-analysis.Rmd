@@ -1,19 +1,16 @@
 ---
-title: 'World Development Indicator data analysis '
+title: 'World Development Indicator: life expectancy analysis '
 author: Luisa M. Mimmi
 date: '2018-02-20'
-slug: world-development-indicator-data-analysis
 categories:
   - Mini-project
-tags:
   - R
+tags:
   - WDI
   - wbstats
 ---
-
-
-## Study of World Bank's WDI indicator **_Life expectancy at birth_**
-
+ 
+ 
 This mini-study project was an exercise to learn how to use the World Bank's API for the [World Development Indicator (WDI)](http://datatopics.worldbank.org/world-development-indicators/) repository. 
 
 In this study, I explore the indicator **_Life expectancy at birth_** and I also do some comparative analisys using other indicators that I expect to be highly correlated with life expectancy: namely **GDP** and the status of **Fragile and conflict affected situations** (FCS). 

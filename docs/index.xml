@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Analysis for Green Card processing time</title>
+      <title>Analysis of Green Card processing time</title>
       <link>/post/2019/07/07/green-card-processing-time/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
@@ -31,25 +31,26 @@ Results  Short Article Code on Github   </description>
     </item>
     
     <item>
-      <title>LinkdIn Data: competitiveness of cities</title>
-      <link>/post/2018/12/15/linkdin-data-competitiveness-of-cities/</link>
+      <title>LinkdIn Data: competitivity of cities</title>
+      <link>/post/2018/12/15/linkdin-data-competitivity-of-cities/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/12/15/linkdin-data-competitiveness-of-cities/</guid>
-      <description> Study of jobs and competitivity of cities This mini-study project was a take-home test I completed in winter 2018 as part of a job interview for a consultancy with IFC (in collaboration with LinkedIn). I used it as an opportunity to refresh some R programming and learn to use the xaringan package to make html presentations.
- Results  Slides (xaringan)
+      <guid>/post/2018/12/15/linkdin-data-competitivity-of-cities/</guid>
+      <description> This mini-study project was a take-home test I completed in winter 2018 as part of a job interview for a consultancy with IFC (in collaboration with LinkedIn). I used it as an opportunity to refresh some R programming and learn to use the xaringan package to make html presentations.
+Results  Slides (xaringan)
  Code on Github
    </description>
     </item>
     
     <item>
-      <title>World Development Indicator data analysis </title>
-      <link>/post/2018/02/20/world-development-indicator-data-analysis/</link>
+      <title>World Development Indicator: life expectancy analysis </title>
+      <link>/post/2018/02/20/world-development-indicator-life-expectancy-analysis/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/02/20/world-development-indicator-data-analysis/</guid>
-      <description>Study of World Bank’s WDI indicator Life expectancy at birth This mini-study project was an exercise to learn how to use the World Bank’s API for the World Development Indicator (WDI) repository.
-In this study, I explore the indicator Life expectancy at birth and I also do some comparative analisys using other indicators that I expect to be highly correlated with life expectancy: namely GDP and the status of Fragile and conflict affected situations (FCS).</description>
+      <guid>/post/2018/02/20/world-development-indicator-life-expectancy-analysis/</guid>
+      <description>This mini-study project was an exercise to learn how to use the World Bank’s API for the World Development Indicator (WDI) repository.
+In this study, I explore the indicator Life expectancy at birth and I also do some comparative analisys using other indicators that I expect to be highly correlated with life expectancy: namely GDP and the status of Fragile and conflict affected situations (FCS).
+ In order to flag the individual countries that are classified as FCS, I used the World Bank list of economies (as of June 2017) found here</description>
     </item>
     
     <item>

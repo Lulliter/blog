@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>LinkdIn Data: competitiveness of cities</title>
-      <link>/post/2018/12/15/linkdin-data-competitiveness-of-cities/</link>
+      <title>LinkdIn Data: competitivity of cities</title>
+      <link>/post/2018/12/15/linkdin-data-competitivity-of-cities/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/12/15/linkdin-data-competitiveness-of-cities/</guid>
-      <description> Study of jobs and competitivity of cities This mini-study project was a take-home test I completed in winter 2018 as part of a job interview for a consultancy with IFC (in collaboration with LinkedIn). I used it as an opportunity to refresh some R programming and learn to use the xaringan package to make html presentations.
- Results  Slides (xaringan)
+      <guid>/post/2018/12/15/linkdin-data-competitivity-of-cities/</guid>
+      <description> This mini-study project was a take-home test I completed in winter 2018 as part of a job interview for a consultancy with IFC (in collaboration with LinkedIn). I used it as an opportunity to refresh some R programming and learn to use the xaringan package to make html presentations.
+Results  Slides (xaringan)
  Code on Github
    </description>
     </item>

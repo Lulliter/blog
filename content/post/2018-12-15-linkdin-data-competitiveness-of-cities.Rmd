@@ -1,18 +1,16 @@
 ---
-title: 'LinkdIn Data: competitiveness of cities'
+title: 'LinkdIn Data: competitivity of cities'
 author: Luisa M. Mimmi
 date: '2018-12-15'
-slug: linkdin-data-competitiveness-of-cities
+slug: linkdin-data-competitivity-of-cities
 categories:
   - Mini-project
-tags:
   - R
+tags:
   - ggplot2
   - xaringan
 ---
 
-
-## Study of jobs and competitivity of cities
 
 This mini-study project was a take-home test I completed in winter 2018 as part of a job interview for a consultancy with **IFC** (in collaboration with **LinkedIn**). I used it as an opportunity to refresh some R programming and learn to use the `xaringan` package to make html presentations.
 
