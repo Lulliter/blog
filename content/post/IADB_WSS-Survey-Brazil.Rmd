@@ -1,0 +1,31 @@
+---
+title: (in progress) Survey of water suppliers in Brazil
+date: '2019-10-22'
+draft: false
+# toc: true
+categories:
+  - Mini-project
+  - R
+tags:
+  - survey
+slug: green-card-processing-time
+---
+
+
+## Purpose of the study 
+The survey is part of a larger effort to collect original data in preparation of the publication “Development in America” 2020 that will focus on Infrastructure (Energy, Water and Transportation) sector in LAC.
+
+## Creators
+This page was created by Luisa M. Mimmi (Research Fellow - consultant at IADB) but builds on data collected by various IADB colleagues and partner organizations.  
+
+## Acknowledgements
++ This survey is sponsored by the **Interamerican Development Bank (IADB)**, Water Division, Knowledge Team  [WSA Knowledge](https://idbg.sharepoint.com/sites/WSAknowledge), where I work as a consultant. 
+
++ This survey has been implemented in the field by the is sponsored by the company [**PoPa Research**](http://www.poparesearch.com/) in partnership with IADB. 
+
++ For the structure of this static webpage, I followed the example of Prof Andrew Heiss [project page](https://stats.andrewheiss.com/donors-ngo-restrictions/index.html) who graciously shares his research work (with code).
+
+## Results
+
+- [Exploratory analysis](https://lulliter.github.io/BrazilWaterSurvey/)
+- [Code on Github](https://github.com/Lulliter/BrazilWaterSurvey)
