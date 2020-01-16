@@ -13,7 +13,7 @@ theme = "hugo-xmin"
 
 # Option 2) Redirecting Project Github Page to personal GOOGLE DOMAIN (@ gmail)
 # Following https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a
-baseURL = "https://luisamimmi.com/"
+baseURL = "https://lulliter.github.io/blog/"#"https://luisamimmi.com/"
 relativeURLs = true
 publishDir = "docs" # By default would be /public We need it to be the /docs (Github docs branch)
 languageCode = "en-us"
