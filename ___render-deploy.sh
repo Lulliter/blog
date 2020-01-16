@@ -16,6 +16,8 @@ setopt rmstarsilent # prevent from asking me permission
 rm -rf  docs/*
 unsetopt rmstarsilent
 
+cd .. # (back to ./blog)
+
 ########################################################
 # MODO 1) HUGO command line to build site
 # https://gohugo.io/commands/hugo/ (documentation)
@@ -53,7 +55,7 @@ fi
 # ... Commit Those changes.
 git commit -m "$msg"
 
-		# git commit -m "Posts migrated"
+		# git commit -m "added Brazil"
 		# git commit -m "about"
 
 # Push source and build repos.
