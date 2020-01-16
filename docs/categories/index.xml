@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Personal Website</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog-post</title>
+      <link>/categories/blog-post/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/blog-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mini-project</title>
+      <link>/categories/mini-project/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mini-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundraising</title>
+      <link>/categories/fundraising/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/fundraising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>/categories/italian/</link>
+      <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resources</title>
+      <link>/categories/resources/</link>
+      <pubDate>Fri, 29 Sep 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/resources/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

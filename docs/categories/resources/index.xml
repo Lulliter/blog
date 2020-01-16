@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resources on Personal Website</title>
+    <link>/categories/resources/</link>
+    <description>Recent content in resources on Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Sep 2000 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Links to useful R resources</title>
+      <link>/post/2000/09/29/links-to-useful-r-resources/</link>
+      <pubDate>Fri, 29 Sep 2000 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2000/09/29/links-to-useful-r-resources/</guid>
+      <description>Here are some useful links and resources for R programming.
+General  Rstudio Community: forum and discussions organized by macro-topic. Rseek: a sort of wiki R page! From rstudioconf2019: a collection of R resources by @littlemissdata Cheatsheets: self-explanatory WTF.. or &amp;ldquo;What They Forgot to Teach You About R&amp;rdquo; 😉 Another life-changing guide from Jenny Bryan Google&amp;rsquo;s R Style Guide  Project Management  Best Practices Handling Packages R-Bloggers blog (scroll to) reference: collection of links&amp;hellip; analytical work reproducibly using R: Pre-print article Karl Broman slides Joris Muller&amp;rsquo;s Blog on The &amp;ldquo;ten simple rules for reproducible computational research&amp;rdquo; in R Joris Muller&amp;rsquo;s Blog on A basic reproducible data analysis workflow - principles  R studio TERMINAL  Great post Using rstudio-terminal/ More on Using the RStudio Terminal  DATABASES  Databases using R RStudio list  API &amp;amp; R  Amanda Gadrow Resources Saving tokens Various Ways Saving tokens WTF&amp;hellip; to tell you  ggplot2 &amp;amp; GRAPHS  Great line by line tutorial ggplot flipbook Modern Dive Chapter Grammar of Graphics  Table Packages to discover  DataExplorer EDA, See github Formattable Tables, See more info table1 Tables, See more info ggstatsplot Graphs, See more info Extension of ggplot2 package for creating graphics with details from statistical tests included in the plots themselves and targeted primarily at behavioral sciences community.</description>
+    </item>
+    
+  </channel>
+</rss>
