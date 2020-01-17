@@ -1,8 +1,8 @@
 ---
-title: G20 - collection of thoughts
+title: Policy - random thoughts
 author: Luisa M. Mimmi
 date: '2020-01-16'
-slug: g20-collection-of-thoughts
+slug: policy-thoughts
 categories:
   - Blog-post
 tags:
@@ -14,7 +14,7 @@ tags:
 # Immigration
 
 + _"Aiutiamoli a casa loro" _- many think that ODA would be the step to keep people in Africa, whereas observation of incoming economic migrants shows that those travelling are not the most destitute, but the slightly better off. 
-Hence - in the short term - aid is likely to make more people better off so much so to become candidates for leaving (Source: ISPI podcast)
+Hence - in the short term - aid is likely to make more people better off so much so to become candidates for leaving _(Source: ISPI podcast)_
 
 
 

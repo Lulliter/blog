@@ -21,11 +21,6 @@
   </url>
   
   <url>
-    <loc>/post/2020/01/16/g20-collection-of-thoughts/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
@@ -34,6 +29,11 @@
     <loc>/tags/policy/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/2020/01/16/policy-thoughts/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
