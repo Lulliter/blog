@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Personal Website</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>G20</title>
+      <link>/tags/g20/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/g20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy</title>
+      <link>/tags/policy/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>survey</title>
+      <link>/tags/survey/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ggplot2</title>
+      <link>/tags/ggplot2/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ggplot2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xaringan</title>
+      <link>/tags/xaringan/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/xaringan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wbstats</title>
+      <link>/tags/wbstats/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wbstats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WDI</title>
+      <link>/tags/wdi/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open data</title>
+      <link>/tags/open-data/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/open-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resilience</title>
+      <link>/tags/resilience/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial data</title>
+      <link>/tags/spatial-data/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatial-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>favelas</title>
+      <link>/tags/favelas/</link>
+      <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/favelas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>/tags/italian/</link>
+      <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sussidiarieta</title>
+      <link>/tags/sussidiarieta/</link>
+      <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sussidiarieta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

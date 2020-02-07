@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mini-project on Personal Website</title>
+    <link>/categories/mini-project/</link>
+    <description>Recent content in Mini-project on Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/mini-project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(in progress) Survey of water suppliers in Brazil</title>
+      <link>/post/2019/10/22/green-card-processing-time/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/10/22/green-card-processing-time/</guid>
+      <description>Purpose of the study The survey is part of a larger effort to collect original data in preparation of the publication “Development in America” 2020 that will focus on Infrastructure (Energy, Water and Transportation) sector in LAC.
+ Creators This page was created by Luisa M. Mimmi (Research Fellow - consultant at IADB) but builds on data collected by various IADB colleagues and partner organizations.
+ Acknowledgements  This survey is sponsored by the Interamerican Development Bank (IADB), Water Division, Knowledge Team WSA Knowledge, where I work as a consultant.</description>
+    </item>
+    
+    <item>
+      <title>Analysis of Green Card processing time</title>
+      <link>/post/2019/07/07/green-card-processing-time/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/07/07/green-card-processing-time/</guid>
+      <description> This short project investigates whether the Trump administration has slowed down the labor certification &amp;amp; green card application process for foreign workers. The analysis relies on DOL/OFLC and USCIS open data.
+Results  Short Article Code on Github   </description>
+    </item>
+    
+    <item>
+      <title>NYE fundraising data analysis </title>
+      <link>/post/2019/04/14/nye-fundraising-data-analysis/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/04/14/nye-fundraising-data-analysis/</guid>
+      <description>Since March 2018, I have worked part-time as a Pro-Bono Fundraising Data Analyst for the nonprofit organization New York Encounter. I performed several ETL tasks –via SQL-based data transformations and R programming– to set up the integration of data that existed in separate and disconnected platforms. Namely, the Nonprofit had informations on donors and attendees on SendGrid, donations recorded via Square and miscellaneous other information in Salesforce. After cleaning and merging such information, I performed an initial explorative characterization of the Nonprofit private donors.</description>
+    </item>
+    
+    <item>
+      <title>LinkdIn Data: competitivity of cities</title>
+      <link>/post/2018/12/15/linkdin-data-competitivity-of-cities/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/12/15/linkdin-data-competitivity-of-cities/</guid>
+      <description> This mini-study project was a take-home test I completed in winter 2018 as part of a job interview for a consultancy with IFC (in collaboration with LinkedIn). I used it as an opportunity to refresh some R programming and learn to use the xaringan package to make html presentations.
+Results  Slides (xaringan)
+ Code on Github
+   </description>
+    </item>
+    
+    <item>
+      <title>World Development Indicator: life expectancy analysis </title>
+      <link>/post/2018/02/20/world-development-indicator-life-expectancy-analysis/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/02/20/world-development-indicator-life-expectancy-analysis/</guid>
+      <description>This mini-study project was an exercise to learn how to use the World Bank’s API for the World Development Indicator (WDI) repository.
+In this study, I explore the indicator Life expectancy at birth and I also do some comparative analisys using other indicators that I expect to be highly correlated with life expectancy: namely GDP and the status of Fragile and conflict affected situations (FCS).
+ In order to flag the individual countries that are classified as FCS, I used the World Bank list of economies (as of June 2017) found here</description>
+    </item>
+    
+  </channel>
+</rss>
