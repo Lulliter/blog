@@ -55,7 +55,7 @@ fi
 # ... Commit Those changes.
 git commit -m "$msg"
 
-		# git commit -m "added Brazil"
+		# git commit -m "CVS"
 		# git commit -m "about"
 
 # Push source and build repos.
