@@ -16,7 +16,7 @@ setopt rmstarsilent # prevent from asking me permission
 rm -rf  docs/*
 unsetopt rmstarsilent
 
-cd .. # (back to ./blog)
+#cd .. # (back to ./blog)
 
 ########################################################
 # MODO 1) HUGO command line to build site
@@ -55,7 +55,7 @@ fi
 # ... Commit Those changes.
 git commit -m "$msg"
 
-		# git commit -m "CVS"
+		# git commit -m "g20 journal draft"
 		# git commit -m "about"
 
 # Push source and build repos.
