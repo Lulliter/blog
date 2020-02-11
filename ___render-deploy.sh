@@ -55,7 +55,7 @@ fi
 # ... Commit Those changes.
 git commit -m "$msg"
 
-		# git commit -m "g20 journal draft"
+		# git commit -m "g20 journal moved"
 		# git commit -m "about"
 
 # Push source and build repos.
