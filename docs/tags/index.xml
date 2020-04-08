@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Personal Website</title>
@@ -66,20 +66,20 @@
     </item>
     
     <item>
-      <title>wbstats</title>
-      <link>/tags/wbstats/</link>
-      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/wbstats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>WDI</title>
       <link>/tags/wdi/</link>
       <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/wdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wbstats</title>
+      <link>/tags/wbstats/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wbstats/</guid>
       <description></description>
     </item>
     
@@ -111,20 +111,20 @@
     </item>
     
     <item>
-      <title>favelas</title>
-      <link>/tags/favelas/</link>
-      <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/favelas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Italian</title>
       <link>/tags/italian/</link>
       <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>/tags/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>favelas</title>
+      <link>/tags/favelas/</link>
+      <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/favelas/</guid>
       <description></description>
     </item>
     
