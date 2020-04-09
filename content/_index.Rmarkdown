@@ -1,8 +1,9 @@
 ---
 title: Home
 ---
-<!-- <img src="/./index_files/dilbertprogramming.png" width="100%" height="100%"; style="float:top;" alt="" /> -->
-![](/./_index_files/dilbertprogramming.png)
+<img src="/./index_files/dilbertprogramming.png" width="100%" height="100%"; style="float:top;" alt="" />
+
+<!-- ![](/./_index_files/dilbertprogramming.png) -->
 
  
 >_“The purpose of models is not to fit the data but to sharpen the questions.” (Karlin, Samuel)_

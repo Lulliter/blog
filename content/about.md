@@ -9,7 +9,7 @@ This blog is intended as a place to collect notes-to-self, R code snippets, insp
 ### _`whoami`_
 
 <!-- ![](/./about_files/LulaSalvador2015.png =100x20) -->
-
+<img src="/./about_files/LulaSalvador2015.png" width="20%" height="20%"; style="float:top;" alt="" />
 
 My name is **Luisa M. Mimmi**. I was born and raised in :it:, although I spent the last 13 years in the :us: based in Washington, DC. 
 
