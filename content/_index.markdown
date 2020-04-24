@@ -1,8 +1,10 @@
 ---
 title: Home
 ---
-<img src="/./index_files/dilbertprogramming.png" width="100%" height="100%"; style="float:top;" alt="" />
+<img src="/./index_files/GrandCanyon.jpg" width="100%" height="80%"; style="float:top;" alt="" />
 
+<!-- <img src="/./index_files/dilbertprogramming.png" width="100%" height="100%"; style="float:top;" alt="" />
+ -->
 <!-- ![](/./_index_files/dilbertprogramming.png) -->
 
  
