@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Inclusion | Personal Website</title>
+    <link rel="stylesheet" href="../../../../../css/style.css" />
+    <link rel="stylesheet" href="../../../../../css/fonts.css" />
+    
+<link href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="../../../../../">Portfolio</a></li>
+      
+      <li><a href="../../../../../categories/">Categories</a></li>
+      
+      <li><a href="../../../../../about/">About</a></li>
+      
+      <li><a href="../../../../../cv/">CV</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Inclusion</span></h1>
+
+<h2 class="date">2020/05/28</h2>
+</div>
+
+<main>
+
+<script src="../../../../../rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<script src="../../../../../rmarkdown-libs/d3/./d3.min.js"></script>
+<link href="../../../../../rmarkdown-libs/circlepackeR/./style.css" rel="stylesheet" />
+<script src="../../../../../rmarkdown-libs/circlepackeR-binding/circlepackeR.js"></script>
+
+
+<pre class="r"><code>if (!require(&quot;pacman&quot;)) install.packages(&quot;pacman&quot;)
+
+p_load(here,
+         tidyr, lubridate, dplyr, stringr,skimr, # dataset manipulation
+         #tribble, # x fare tabelle a mano
+         ggplot2, # grafici
+         circlepackeR,
+         data.tree)
+## Theme for graphs
+# cleanup = theme(panel.grid.major = element_blank(), 
+                     # panel.grid.minor = element_blank(), 
+                     # panel.background = element_blank(), 
+                     # axis.line = element_line(colour = &quot;black&quot;), 
+                     # legend.key = element_rect(fill = &quot;white&quot;),
+                     # text = element_text(size = 15))
+
+#devtools::install_github(&quot;jeromefroe/circlepackeR&quot;) # If needed</code></pre>
+<div id="motivazione" class="section level2">
+<h2>MOTIVAZIONE</h2>
+<p>Non cadere in quella che il pedagogo Giuseppe Fioravanti definisce l a“mistica del metodo”</p>
+<blockquote>
+<p>(messi al bando i grandi perché della vita umana, tutti gli sforzi si concentrano sulle metodologie di ogni tipo e genere, e sulla idolatria della sperimentazione, quasi che da essa possa arrivare la soluzione di ogni problema.)</p>
+</blockquote>
+<p>e domandarmi quali sono i principi e gli ideali, una prospettiva unitaria?</p>
+</div>
+<div id="laying-out-some-definitions" class="section level2">
+<h2>LAYING OUT SOME DEFINITIONS</h2>
+<ul>
+<li><p>equality vs inclusion?
+<strong>Equality</strong> (a subset?) has to do with equal ACCESS to goods &amp; services or TREATMENT? <strong>Inclusion</strong> has to do with OPPORTUNITY // UPWARD MOBILITY
+If equality is somewhat more static (inherent worth), inclusion seems more dynamic… “I wasn’t ### then I am”</p></li>
+<li><p><strong>fairness</strong> vs inclusion?</p></li>
+<li><p>inclusion vs <strong>common good</strong>?</p></li>
+<li>manifestations of (economic) inclusion
+<ol style="list-style-type: decimal">
+<li>~ <em>development</em> (poor countries join the “club” of developed ones)</li>
+<li>~ <em>integration</em> (immigrants enjoy access to work, rights etc)</li>
+<li>~ <em>social inclusion</em> (upward mobility // favelados get to partake in formal citizenship)</li>
+<li>~ <em>visibility</em> of &amp; on racial and other minorities (Scholarship for the non-Caucasian )</li>
+</ol></li>
+</ul>
+<pre class="r"><code># create a nested data frame giving the info of a nested dataset:
+data &lt;- data.frame(
+  root=rep(&quot;root&quot;, 15),
+  group=c(rep(&quot;group A&quot;,5), rep(&quot;group B&quot;,5), rep(&quot;group C&quot;,5)), 
+  subgroup= rep(letters[1:5], each=3),
+  subsubgroup=rep(letters[1:3], 5),
+  value=sample(seq(1:15), 15)
+)
+
+# Change the format. This use the data.tree library. This library needs a column that looks like root/group/subgroup/..., so I build it
+library(data.tree)
+data$pathString &lt;- paste(&quot;world&quot;, data$group, data$subgroup, data$subsubgroup, sep = &quot;/&quot;)
+population &lt;- as.Node(data)
+
+# Make the plot
+#circlepackeR(population, size = &quot;value&quot;)
+
+# You can custom the minimum and maximum value of the color range.
+p &lt;- circlepackeR(population, size = &quot;value&quot;, color_min = &quot;hsl(56,80%,80%)&quot;, color_max = &quot;hsl(341,30%,40%)&quot;)
+
+p</code></pre>
+<div id="htmlwidget-1" style="width:480px;height:480px;" class="circlepackeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"data":{"name":"world","children":[{"name":"group A","children":[{"name":"a","children":[{"name":"a","group":"group A","subgroup":"a","subsubgroup":"a","value":11},{"name":"b","group":"group A","subgroup":"a","subsubgroup":"b","value":9},{"name":"c","group":"group A","subgroup":"a","subsubgroup":"c","value":3}]},{"name":"b","children":[{"name":"a","group":"group A","subgroup":"b","subsubgroup":"a","value":5},{"name":"b","group":"group A","subgroup":"b","subsubgroup":"b","value":14}]}]},{"name":"group B","children":[{"name":"b","children":[{"name":"c","group":"group B","subgroup":"b","subsubgroup":"c","value":2}]},{"name":"c","children":[{"name":"a","group":"group B","subgroup":"c","subsubgroup":"a","value":4},{"name":"b","group":"group B","subgroup":"c","subsubgroup":"b","value":15},{"name":"c","group":"group B","subgroup":"c","subsubgroup":"c","value":1}]},{"name":"d","children":[{"name":"a","group":"group B","subgroup":"d","subsubgroup":"a","value":13}]}]},{"name":"group C","children":[{"name":"d","children":[{"name":"b","group":"group C","subgroup":"d","subsubgroup":"b","value":8},{"name":"c","group":"group C","subgroup":"d","subsubgroup":"c","value":10}]},{"name":"e","children":[{"name":"a","group":"group C","subgroup":"e","subsubgroup":"a","value":7},{"name":"b","group":"group C","subgroup":"e","subsubgroup":"b","value":12},{"name":"c","group":"group C","subgroup":"e","subsubgroup":"c","value":6}]}]}]},"options":{"size":"value","color_min":"hsl(56,80%,80%)","color_max":"hsl(341,30%,40%)"}},"evals":[],"jsHooks":[]}</script>
+<pre class="r"><code># save the widget
+# library(htmlwidgets)
+# saveWidget(p, file=paste0( getwd(), &quot;/HtmlWidget/circular_packing_circlepackeR2.html&quot;))</code></pre>
+</div>
+<div id="my-take" class="section level2">
+<h2>MY TAKE</h2>
+<p>For some time (in past centuries) market economy has been a tool of inclusion and democracy, but the “invisible hand” of the market operates only under certain condiitons (…)</p>
+<p>Now <strong>Inequality</strong> has become endogenous to the system and (possibly) a lot of it is due to the process of <strong>financialization</strong> of economics (e.g. speculative bubbles, decreasing rate of investment; consumption distortions)</p>
+<pre><code>+ Es: US now a lot of the investors that earlier made securities based on mortgages, now by rental property: it is much more secure, speedy form of investment and they can easily evict tenants (sometimes simply becasue they ask for renovation)</code></pre>
+<div id="who-is-in-charge" class="section level3">
+<h3>Who is in charge?</h3>
+<p>Vitta said some time ago that places of aggregation (oratori circoli partiti) / “corpi intermedi della societa’” were disappearing… maybe it’s not disjointed the idea that inclusion is a duty of the central state (finanziamenti a pioggia del DL rilancio)</p>
+</div>
+<div id="what-to-do-metodi-tecniche-strumenti" class="section level3">
+<h3>What to do? (metodi tecniche strumenti)</h3>
+<ol style="list-style-type: decimal">
+<li><p>INTERVENTI SUL SISTEMA
+Non continuare a riformare, ma farsi delle domande e TREASFORMARE!
+(Zamagni: from <em>political economy paradigm</em> –&gt; <em>civil economy</em>)</p></li>
+<li><p>POLITICHE DIRETTE AGLI INDIVIDUI
+tax-transfer system
+investment in skills and labour market policies and
+raising women’s participation in economic life</p></li>
+</ol>
+</div>
+<div id="risk-of-confusing" class="section level3">
+<h3>Risk of confusing</h3>
+<ul>
+<li>is it enough to measure income inequality (Gini etc?)</li>
+</ul>
+</div>
+</div>
+<div id="zamagni" class="section level2">
+<h2>ZAMAGNI</h2>
+<blockquote>
+<p><strong>Inequality</strong> has become endogenous to the system and this not only generates economic costs (e.g. speculative bubbles, decreasing rate of investment; consumption distortions), but, above all, it gives rise to social and human costs. (…) the notion of <strong>fairness</strong> is not firmly integrated into mainstream economics</p>
+</blockquote>
+<p>Lobbying and business concentration in the hands of elites took people away from politics. (D. Rushkoff)</p>
+<blockquote>
+<p>(…) global capitalism as a model of social order, has increasingly assumed the characteristics of a religion, since it posits an overarching goal for human life and seeks to pursue it on the basis of a specific concept of human being.</p>
+</blockquote>
+<blockquote>
+<p>P. Williams.[11] On the one hand, decisions with moral content are presented in technical terms (e.g.: human rights have to be limited for the sake of efficiency). On the other hand, technical arguments are put forward as genuine moral alternatives (e.g. the market versus state alternative is presented as if it were an ideological question). I do believe that it has become urgent to try to de-mask the ideological nature of the <strong>global economic order</strong>. Let us recall that ideology consists in labelling as “order” what is in fact a complex pattern of hierarchical, asymmetrical power relationships. The path from ideology to idolatry is a short one.</p>
+</blockquote>
+<blockquote>
+<p><strong>Globalization</strong> entails many dimensions, but it is a fact that</p>
+</blockquote>
+<pre><code>+ the creation of a **global financial market** constitutes the most relevant one. (...) Bridging the chasm between the institutional dimension of a country and its social dynamics is one of the major challenges facing our societies today.
++ it exacerbates diff winners v loosers (the emergence of a new form of competition, unknown until recently: positional competition, according to which the “winner takes all and the loser loses everything” – the so-called “superstar effect” as understood by Shermin Rose. )
++ relationship between globalization and poverty </code></pre>
+<blockquote>
+<p><strong>Including</strong> means sharing, participating. It entails the transition from being a stranger and misfit to being an active subject, from a subject to a sovereign citizen.</p>
+</blockquote>
+</div>
+<div id="civil-economy" class="section level2">
+<h2>–&gt; CIVIL ECONOMY</h2>
+<blockquote>
+<p>Interpersonal relations are one of the central themes in the civil economy tradition, the Italian school of thought that dominated the scene until the end of the eighteenth century.</p>
+</blockquote>
+<blockquote>
+<p>The constituent elements of the state’s intervention in a universalistic welfare system include three main duties: (1) the definition of a <em>set of social services</em> (as well as their relative codified quality standards) that are guaranteed to all citizens; (2) the implementation of <em>access rules</em> for those services and the necessary redistribution rules to ensure that all citizens can effectively benefit from them; and (3) the exercise of forms of control on the effective allocation of the services to people.
+It is certainly possible for the state, in the universalistic model, to <em>supply</em> one service or another as a public monopoly BUT, in the universalistic model, the functions of the <em>state-regulator</em> can be said to be a priori, while making justifications for the <em>state-manager</em> or state-producer are a posteriori… <strong>The greater the state’s role as manager, the lesser its capacity to regulate, and thus the lesser its capacity to insure those objectives of equity and efficiency that are the hallmarks of any social security system. It is a fact that the hyper-bureaucratization of the state, on the one hand, and the growing inequality caused by the concentration of capital and wealth in the hands of a few, on the other, have caused an erosion of the political agency of individuals and local communities, thus leaving many feeling powerless when faced with the forces that influence their lives. </strong></p>
+</blockquote>
+<p>The three guiding principles are:
+1. reciprocity, (embodied by COMMUNITY)
+2. exchange of equivalents, (embodied by MARKET)
+3. and hierarchical control, respectively. (embodied by STATE)</p>
+<p>MODERN DEBATE SEES 3 groups</p>
+<ol style="list-style-type: decimal">
+<li>neoetatistic model (State in charge sith surrogacy of 3 sector)</li>
+<li>neoliberal one, also known as “compassionate conservatorism” (While this model values civil society and its organizations, it is inadequate in maintaining the universalistic principle.)</li>
+<li>the civil welfare model endorsed by the civil economy perspective. (recognizes civil society organizations as active partners in the process of programming interventions and in the ensuing implementation)</li>
+</ol>
+<p>(*) in circular subsidiarity sovereignty is shared, not “devoluted” (vertical subs) or ceded&quot; (like in horiz subsid)</p>
+<p>(*) while <strong>solidarity</strong> is the principle of social organization that allows those who are not equal to become equal, the principle of <strong>fraternity</strong> is the principle of social organization that allows equals to be diverse</p>
+<p>(<em>) Since the financialization of the economy in the early 1980s, corporate governance practices tightly linked the purpose of business with maximizing </em>shareholder value<em>. However, as the twenty-first century pushes on, there has been increased emphasis on other </em>stakeholder values*, particularly social and environmental concerns.
+# REFERENCE</p>
+<div id="refs" class="references">
+<div id="ref-zamagni_enhancing_2017">
+<p>Zamagni, Stefano. 2017. “Enhancing Socio-Economic Integration: The Civil Economy Perspective for a Participatory Society.”</p>
+</div>
+</div>
+</div>
+
+</main>
+
+  <footer>
+  <script src="//yihui.name/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+
+<script>
+hljs.configure({languages: []});
+hljs.initHighlightingOnLoad();
+</script>
+
+  
+  <hr/>
+  &copy; Luisa M. Mimmi 2018 &ndash; 2020 | <em>Built with Blogdown &amp; Hugo (<a href="https://themes.gohugo.io/hugo-xmin/">XMin</a>), deployed on Github Pages</em>
+  
+  </footer>
+  </body>
+</html>
+

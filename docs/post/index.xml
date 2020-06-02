@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inclusion</title>
+      <link>/post/2020/05/28/inclusion/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/05/28/inclusion/</guid>
+      <description>if (!require(&amp;quot;pacman&amp;quot;)) install.packages(&amp;quot;pacman&amp;quot;) p_load(here, tidyr, lubridate, dplyr, stringr,skimr, # dataset manipulation #tribble, # x fare tabelle a mano ggplot2, # grafici circlepackeR, data.tree) ## Theme for graphs # cleanup = theme(panel.grid.major = element_blank(), # panel.grid.minor = element_blank(), # panel.background = element_blank(), # axis.line = element_line(colour = &amp;quot;black&amp;quot;), # legend.key = element_rect(fill = &amp;quot;white&amp;quot;), # text = element_text(size = 15)) #devtools::install_github(&amp;quot;jeromefroe/circlepackeR&amp;quot;) # If needed MOTIVAZIONE Non cadere in quella che il pedagogo Giuseppe Fioravanti definisce l a“mistica del metodo”</description>
+    </item>
     
     <item>
       <title>(in progress) Policy - random thoughts</title>
@@ -17,7 +26,9 @@
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020/01/16/policy-thoughts/</guid>
-      <description> Immigration  “Aiutiamoli a casa loro” - many think that ODA would be the step to keep people in Africa, whereas observation of incoming economic migrants shows that those travelling are not the most destitute, but the slightly better off. Hence - in the short term - aid is likely to make more people better off so much so to become candidates for leaving (Source: ISPI podcast)   Climate change  Mckinsey Report   </description>
+      <description>Resilienza Stefano Zamagni “Meet the Meeting” 23 Maggio 2020
+Occorre non più riformare ma ripensare con resilienza trasformativa applicata almeno a 3 blocchi:
+Scuola/Ricerca: basta coll’impianto taylorista entrato anche nella scuola/università (luogo di istruzione, ma non educazione) Dal welfare state al welfare di comunità. Sussidiarietà (principio sancito dalla Costituzione art. 118 ma mai applicato) Sistema fiscale: i progetti produttivi devono pagare meno tasse dei progetti improduttivi Deburocratizzazione: 161000 leggi vigenti in Italia (in Germania 7000).</description>
     </item>
     
     <item>
