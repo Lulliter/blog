@@ -44,7 +44,7 @@ git status
 # Add ALL changes to git Index.
 git add project/*
 git add -A
-git add -u
+git add -u # x lasciare fuori inclusiom
 
 # Create Std commit "message"....
 msg="rebuilt on `date`"
