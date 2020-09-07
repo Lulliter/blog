@@ -23,8 +23,12 @@ public/   # since replaced by  /docs
 public_NO/
 
 # DRAFT
-content/post/2020-05-28-inclusion.Rmd
-content/post/2020-05-28-inclusion.html
+content/post/__2020-05-28-inclusion.Rmd
+content/post/__2020-05-28-inclusion.html
+
+content/post/__2020-09-07-plan2implem.Rmd
+content/post/__2020-09-07-plan2implem.html
+
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
 .httr-oauth
