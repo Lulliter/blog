@@ -11,9 +11,9 @@ This blog is intended as a place to collect notes-to-self, R code snippets, insp
 <!-- ![](/./about_files/LulaSalvador2015.png =100x20) -->
 <img src="/./about_files/LulaSalvador2015.png" width="20%" height="20%"; style="float:top;" alt="" />
 
-My name is **Luisa M. Mimmi**. I was born and raised in :it:, although I spent the last 13 years in the :us: based in Washington, DC. 
+My name is **Luisa M. Mimmi**. I was born and raised in :it:, although I spent 14 years in the :us: based in Washington, DC. working for multi-lateral development banks. 
 
-When I am not procrastinating, or chasing a decent espresso, I am a consultant for multi-lateral development banks, passionate about using data to understand and tackle various dimensions of infrastructure poverty. 
+I am passionate about using data to understand and tackle various dimensions of economic development, with a focus on the provision of essential housing and infrastructure services. 
 For more details about my 'official' job see links to other platforms or [CV](https://lulliter.github.io/blog/cv/)) 
 
  
