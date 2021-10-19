@@ -56,7 +56,7 @@ fi
 git commit -m "$msg"
 
 		# git commit -m "upd cv"
-		# git commit -m "about"
+		# git commit -m "deleted draft posts"
 
 # Push source and build repos.
 git push origin master

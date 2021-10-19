@@ -16,7 +16,7 @@ CNAME
 .Ruserdata
 
 ####### Blogdown
-blogdown
+/blogdown
 /blogdown/
 .DS_Store
 public/   # since replaced by  /docs
@@ -44,3 +44,7 @@ content_draft_posts/
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+
+# Suggested by `blogdown::check_gitignore()`
+Thumbs.db
