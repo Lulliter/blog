@@ -5,11 +5,14 @@ CNAME
 .Rproj.user/
 .Rproj.user/**
 
+# not sure [I added]
+.Rprofile
 
 
 # History files
 .Rhistory
 .Rapp.history
+.Rhistory[Conflict]
 
 # Session Data files
 .RData

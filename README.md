@@ -21,3 +21,6 @@ https://luisamimmi.com/
 [Hossain Khan](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a), seeing 
 [Github at](https://github.com/amardeshbd/hossainkhan.com)
  
+#### CHeck out 
+
+- [Blogdown checks](https://www.apreshill.com/blog/2020-12-blogdown-checks/)
