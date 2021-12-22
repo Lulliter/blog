@@ -32,9 +32,9 @@ unsetopt rmstarsilent
 # MODO 2) BLOGDOWN from  command line to build site
 ########################################################
 # ===== Build local
-# R -e 'blogdown:::serve_site()' # install to default location.
+R -e 'blogdown:::serve_site()' # install to default location.
 # ====== Building the public site
-# R -e 'blogdown:::build_site()' # install to default location.
+R -e 'blogdown:::build_site()' # install to default location.
 
 #=========================================== (Push to Github repo) ================================================#
 
@@ -56,7 +56,7 @@ fi
 git commit -m "$msg"
 
 		# git commit -m "upd cv"
-		# git commit -m "fifferent welcome"
+		# git commit -m "revised CVs"
 
 # Push source and build repos.
 git push origin master
