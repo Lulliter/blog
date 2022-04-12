@@ -18,7 +18,7 @@ relativeURLs = true
 publishDir = "docs" # By default would be /public We need it to be the /docs (Github docs branch)
 languageCode = "en-us"
 draft = false # if set to true, changes will not be published
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$" ] # WRONG , "\\.\\/content_draft_posts\\/\\*"]
 enableEmoji = true
 
 footnotereturnlinkcontents = "↩"
@@ -56,4 +56,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "Personal website & portfolio."
-    footer = "&copy; Luisa M. Mimmi 2018 -- 2021 | _Built with Blogdown & Hugo ([XMin](https://themes.gohugo.io/hugo-xmin/)), deployed on Github Pages_"
+    footer = "&copy; Luisa M. Mimmi 2018 -- 2022 | _Built with Blogdown & Hugo ([XMin](https://themes.gohugo.io/hugo-xmin/)), deployed on Github Pages_"

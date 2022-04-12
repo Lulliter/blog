@@ -26,16 +26,16 @@ public/   # since replaced by  /docs
 public_NO/
 
 # DRAFT (non so come altro nascondere)
-content/post/__2020-05-28-inclusion.Rmd
-content/post/__2020-05-28-inclusion.html
+#content/post/__2020-05-28-inclusion.Rmd
+#content/post/__2020-05-28-inclusion.html
 
-content/post/2020-09-07-plan2implem-rmd.html
-content/post/2020-09-07-plan2implem-rmd.Rmd
+#content/post/2020-09-07-plan2implem-rmd.html
+#content/post/2020-09-07-plan2implem-rmd.Rmd
 
-content/post/2020-01-16-policy-thoughts.Rmd
-content/post/2020-01-16-policy-thoughts.html
+#content/post/2020-01-16-policy-thoughts.Rmd
+#content/post/2020-01-16-policy-thoughts.html
 
-content_draft_posts/
+content_draft_posts/*
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
 .httr-oauth
