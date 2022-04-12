@@ -44,10 +44,13 @@ git status
 # Add ALL changes to git Index.
 git add project/*
 git add -A
-git add -u # x lasciare fuori inclusiom git add static/index_files/5terre.png
+git add -u # x lasciare fuori inclusiom git add docs/index_files/BadiaSmaller.png
 
 # Create Std commit "message"....
-msg="rebuilt on `date`"
+NOW=$(date +"%d-%b-%Y %R")
+# echo "$NOW"
+
+msg="rebuilt on $NOW"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
