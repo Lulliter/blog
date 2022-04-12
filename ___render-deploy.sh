@@ -41,12 +41,11 @@ R -e 'blogdown:::build_site()' # install to default location.
 # check status
 git status
 
-# Add ALL changes to git Index.
-git add project/*
-git add -A
+# ..... Add ALL changes to git Index.
+# git add -A
 git add -u # x lasciare fuori inclusiom git add docs/index_files/BadiaSmaller.png
 
-# Create Std commit "message"....
+# ....Create Std commit "message"....
 NOW=$(date +"%d-%b-%Y %R")
 # echo "$NOW"
 
@@ -57,11 +56,10 @@ fi
 
 # ... Commit Those changes.
 git commit -m "$msg"
-
 		# git commit -m "upd cv"
 		# git commit -m "revised CVs"
 
-# Push source and build repos.
+# ... Push source and build repos.
 git push origin master
 
 
