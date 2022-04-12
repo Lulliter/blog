@@ -40,6 +40,5 @@ content_draft_posts/*
 *.utf8.md
 *.knit.md
 
-
 # Suggested by `blogdown::check_gitignore()`
 Thumbs.db

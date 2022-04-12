@@ -1,7 +1,5 @@
 # More details in https://bookdown.org/yihui/blogdown/templates.html
 # Issues at https://github.com/yihui/hugo-xmin/issues?utf8=%E2%9C%93&q=+
-
-
 title = "Personal Website"
 googleAnalytics = ""
 disqusShortname = ""
@@ -23,7 +21,7 @@ enableEmoji = true
 
 footnotereturnlinkcontents = "↩"
 
-[permalinks]
+[permalinks] # stuff that remains on the home page
     post = "/post/:year/:month/:day/:slug/"
     #note = "/note/:year/:month/:day/:slug/"
 
